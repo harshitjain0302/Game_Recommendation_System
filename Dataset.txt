@@ -1,0 +1,3 @@
+As the size of the dataset is above the limit allowed to be committed on Github. We are providing the link of the dataset used from Kaggle.
+
+Link -> https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
