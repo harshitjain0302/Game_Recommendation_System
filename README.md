@@ -1,12 +1,12 @@
 # Game Recommendation System on Steam
 
-📌 Description
+## Description
 
 The Game Recommendation System is a machine learning project designed to help users on the Steam platform discover relevant games based on their preferences. By analyzing various attributes such as game features and user interactions, the system provides personalized game recommendations. This system uses both content-based filtering and collaborative filtering approaches to ensure users receive diverse and accurate suggestions.
 
 The system helps users explore games they may like by utilizing a mix of collaborative filtering (based on user-item interactions) and content-based filtering (based on game features like title, genre, and description). The solution aims to enhance user engagement by streamlining the game discovery process, making it easier to find games that fit personal tastes.
 
-🚀 Features
+## Features
 
 	•	Personalized Recommendations: Suggests games based on user preferences.
  
@@ -18,7 +18,7 @@ The system helps users explore games they may like by utilizing a mix of collabo
  
 	•	Data Preprocessing: Handles missing values, encodes categorical data, and scales numerical features. 
 
-🛠️ Tech Stack
+## Tech Stack
 
 	•	Python: Programming language for the development.
  
@@ -35,7 +35,7 @@ The system helps users explore games they may like by utilizing a mix of collabo
 	•	Matplotlib/Seaborn: Data visualization.
 
 
-📝 Data Preprocessing
+## Data Preprocessing
 
 Data preprocessing is a crucial step in transforming raw data into a usable format for the recommendation system. The following steps were performed:
 
@@ -47,7 +47,7 @@ Data preprocessing is a crucial step in transforming raw data into a usable form
  
 	4.	Text Processing: Game titles were processed using TF-IDF vectorization to standardize the text and remove unnecessary characters. This helps in capturing important features from the game titles and descriptions.
 
-⚙️ Recommendation Techniques
+## Recommendation Techniques
 
 Content-Based Filtering
 
