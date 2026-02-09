@@ -80,13 +80,14 @@ This approach enables recommendations even when user interaction data is sparse 
 ---
 
 ## Project Structure
+```
 Game_Recommendation_System/
 ├── notebooks/
 │   ├── Preprocess.ipynb
 │   └── Main.ipynb
 ├── Dataset.txt
 ├── README.md
-
+```
 ---
 
 ## Key Insights
